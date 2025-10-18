@@ -24,4 +24,3 @@ sempre da fonte de dados
 
 - Variáveis podem ter autoreferência
 - uma váriavel só pode armazenar UM registro
-- teste
